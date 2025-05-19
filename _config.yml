@@ -1,0 +1,24 @@
+title: TechBoost Demostrate Copilot Studio value with agentic solutions
+description: In this course, TBD
+theme: just-the-docs
+
+aux_links:
+  "Demostrate Copilot Studio value with agentic solutions":
+    - "https://github.com/microsoft/TechBoost-Demonstrate-Copilot-Studios-Value-with-Agentic-Solutions"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
