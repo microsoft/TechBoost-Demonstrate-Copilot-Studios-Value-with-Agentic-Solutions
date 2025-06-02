@@ -1,7 +1,7 @@
 ---
 title: 'Exercise 01: Explore the existing customer app'
 layout: default
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 

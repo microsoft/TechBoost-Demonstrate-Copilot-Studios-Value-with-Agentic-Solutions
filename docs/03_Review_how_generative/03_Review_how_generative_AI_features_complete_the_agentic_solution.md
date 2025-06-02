@@ -1,7 +1,7 @@
 ---
 title: 'Exercise 03: Review how generative AI features complete the agentic solution'
 layout: default
-nav_order: 4
+nav_order: 5
 has_children: true
 ---
 
@@ -14,4 +14,4 @@ After you complete this exercise, you'll be able to:
  - Identify content sources and security considerations for generative AI.
  - Evaluate the impact of generative responses on customer experience.
 
-**Duration**: 15 minutes
+**Duration**: 30 minutes
