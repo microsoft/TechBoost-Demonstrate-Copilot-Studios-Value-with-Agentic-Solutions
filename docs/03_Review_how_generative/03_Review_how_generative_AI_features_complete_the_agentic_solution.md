@@ -14,4 +14,4 @@ After you complete this exercise, you'll be able to:
  - Identify content sources and security considerations for generative AI.
  - Evaluate the impact of generative responses on customer experience.
 
-**Duration**: 30 minutes
+**Duration**: 15 minutes

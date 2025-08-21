@@ -10,7 +10,19 @@ Before extending the system with AI, Contoso’s team must understand how the cu
 
 ## Objectives
 After you complete this exercise, you'll be able to:
- - Identify key pain points and desidred business outcomes from the case study.
- - Create two sample property records.
+- Understand the customer scenario
+- Examine the present state of the solution
+
+### Key steps 
+
+
+Review the following 2-min video for an overview of the customer's existing booking app.
+
+<!--!VIDEO[AI_Skills_Fest-Copilot.mp4](instructions294957/AI_Skills_Fest-Copilot.mp4)-->
+!VIDEO[AI_Skills_Fest_New.mp4](../../media/AI_Skills_Fest_New.mp4)
+
+{: .important }
+> Want to see the full session? Watch the complete AI Skills Fest video here: !VIDEO[AI_Skills_Fest_-_Copilot_Studio_compressed.mp4](../../media/AI_Skills_Fest_-_Copilot_Studio_compressed.mp4) 
+
 
 **Duration**: 15 min
