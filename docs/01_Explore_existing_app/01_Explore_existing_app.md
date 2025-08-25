@@ -17,14 +17,17 @@ After you complete this exercise, you'll be able to:
 
 Review the following 2-min video for an overview of the customer's existing booking app:
 
+<div>
 <video style="width: 640px; height: 360px;" controls> 
 <source src="../../media/AI_Skills_Fest_New.mp4" type="video/mp4"> 
-</video>
+</video> </div>
 
 
 {: .important }
 > Want to see the full session? Watch the complete AI Skills Fest video here:
-> <video style="width: 640px; height: 360px;" controls> <source src="./../media/AI_Skills_Fest_-_Copilot_Studio_compressed.mp4" type="video/mp4"> </video>
+>
+> <div> <video style="width: 640px; height: 360px;" controls> Full video <source src="./../media/AI_Skills_Fest_-_Copilot_Studio_compressed.mp4" type="video/mp4"> </video> </div>
+
 
 
 **Duration**: 15 min
