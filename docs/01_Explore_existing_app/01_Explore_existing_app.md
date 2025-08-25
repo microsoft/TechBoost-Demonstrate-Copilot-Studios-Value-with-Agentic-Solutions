@@ -30,5 +30,4 @@ Review the following 2-min video for an overview of the customer's existing book
   <source src="./../media/AI_Skills_Fest_-_Copilot_Studio_compressed.mp4" type="video/mp4"> </video> 
 
 
-
 **Duration**: 15 min
