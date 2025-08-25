@@ -15,14 +15,14 @@ After you complete this exercise, you'll be able to:
 
 ### Key steps 
 
+Review the following 2-min video for an overview of the customer's existing booking app:
 
-Review the following 2-min video for an overview of the customer's existing booking app.
-
-<!--!VIDEO[AI_Skills_Fest-Copilot.mp4](instructions294957/AI_Skills_Fest-Copilot.mp4)-->
-!VIDEO[AI_Skills_Fest_New.mp4](../../media/AI_Skills_Fest_New.mp4)
+<video style="width: 640px; height: 360px;" controls> 
+<source src="../../media/AI_Skills_Fest_New.mp4" type="video/mp4"> 
 
 {: .important }
-> Want to see the full session? Watch the complete AI Skills Fest video here: !VIDEO[AI_Skills_Fest_-_Copilot_Studio_compressed.mp4](../../media/AI_Skills_Fest_-_Copilot_Studio_compressed.mp4) 
+> Want to see the full session? Watch the complete AI Skills Fest video here:
+> <video style="width: 640px; height: 360px;" controls> <source src="./../media/AI_Skills_Fest_-_Copilot_Studio_compressed.mp4" type="video/mp4"> 
 
 
 **Duration**: 15 min
